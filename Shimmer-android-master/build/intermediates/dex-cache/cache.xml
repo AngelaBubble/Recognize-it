@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chai/Downloads/Shimmer-android-master/sample/build/intermediates/exploded-aar/Shimmer-android-master/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6d9bbbc8ab857ad395ddd4d75b447238a9bd88ac">
+        <dex dex="/Users/chai/Downloads/Shimmer-android-master/sample/build/intermediates/pre-dexed/debug/classes-75f84ccfeeb4370978af2326f4162d903fd9d212.jar" />
+    </item>
+
+</items>
