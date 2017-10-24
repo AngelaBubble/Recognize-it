@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/9157d8d7eee258c98590dd5c8da02a26aad1b2fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35cc0c7040e4c0f24f8ebd8ad2243ea4dfb467a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/3e07c0b68dd8fa7307a77224cd7a72155d390256/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acfffe81ff18ff48f4b7c0de239e491ba7fa30ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_bad1e0af0c8c9f143fb09497f73788c79ab48d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/d2d4e50439a3e359e7880d9d9406324c1e96e9dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f32161b0198605829ac02e8e7dbd1fcf588b20b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc897a2f37e6c883f65a27a744654adbec62e72f">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9db7e825a134f81aee316e88214faeafc493149e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/5e22654229e7c9945b3fb9266ae0a0a5b98cf27a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dd262eda7994014471db1accb51d8cd16b9c62a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/0f253ce160ca0e6f328669f48cb6bf05c685c058/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5fa989336f98a6af1af55c785f477ac404709a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/b41d862da290e5c6f8c2a237437731229cd470bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecb5c2087f7cd0ac83f74924ec57773d90a08af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/3b61833b8420cc9f903b7ab617516176d5dd614d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fb4fcf803941af526255e74459d50e13894109d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/fa23c8b37ec78e2e655832c011bdef0c3caf9f46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5569092b6628735db2e554e9d59d2da24fdd9ed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b78831d1952a83198afb2abfa2cec824465868c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuchen/.android/build-cache/3193400cfbbb21f2ebdb7d1e49c1c616653e12b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/yuchen/Desktop/BlingBling/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80a82b999301816033af712bc4552f2bc377338d/classes.dex" />
+    </item>
+
+</items>
