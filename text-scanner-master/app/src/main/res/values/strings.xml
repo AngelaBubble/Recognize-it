@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlingBling</string>
+    <string name="upload_an_image">Upload an image</string>
+    <string name="camera">camera</string>
+</resources>
