@@ -6,7 +6,8 @@
 :girl:Xinqiao Wei   
 :girl:Yuchen Nie   
    
-   
+# ATTENTION PLEASE
+## This repository somehow crushed, so we have a new GitHub repository for this project now. If you would like to see it,  [Click Here!](https://github.com/wym613/BlingBling) Thanks!
    
 ## Summary
  Our project is to build an application based on Android platform. :bowtie:
